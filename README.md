@@ -1,19 +1,19 @@
-# 👋 Zineb BOULAHBACH — Portfolio Cybersécurité
+# 👋 Zineb — Portfolio Cybersécurité
 
 ## À propos
-Étudiante ingénieure en 4ème année à l'EMSI, je combine mes bases en développement logiciel avec une spécialisation en cybersécurité. Mon objectif est d'apporter des solutions de sécurité innovantes pour protéger les organisations et les personnes, en garantissant la confidentialité, l'intégrité et la disponibilité des systèmes.
+Étudiante en 4ème année à l'EMSI, je suis passionnée par la technologie et l'analyse de systèmes complexes[cite: 20, 21, 23]. [cite_start]Mon parcours en ingénierie m'a permis de développer une solide base technique que je souhaite aujourd'hui mettre au service de la cybersécurité pour protéger les organisations et les personnes.
 
 ## 📝 Déclaration professionnelle
-"Passionnée par la sécurité de l'information, je m'engage à protéger les organisations et les personnes en identifiant et en analysant les risques potentiels. Grâce à mes forces en analyse technique et mon respect rigoureux des normes, j'aide les entreprises à renforcer leur posture de sécurité et à garantir l'intégrité de leurs actifs."
+"Je m'appelle Zineb. Je suis une étudiante ingénieure en 4ème année, motivée et passionnée par la sécurisation des infrastructures numériques et la protection des données sensibles.J'aime travailler avec les technologies, analyser des architectures complexes et concevoir des solutions de sécurité robustes pour résoudre les défis actuels des organisations."
 
 ## 🎯 Mes objectifs & Valeurs
-* Mes forces : Je développe activement mes compétences en communication, en gestion du temps et en techniques de sécurité.
-* Mes valeurs : Je place la protection des personnes et des organisations au centre de mes priorités.
-* Mon intérêt : Ce qui me motive le plus dans la cybersécurité, c'est l'identification proactive des menaces pour soutenir les objectifs de sécurité des organisations.
+* Mes forces : Je possède une solide base technique en développement logiciel et une capacité à analyser des tâches complexes.
+* Mes valeurs : Je suis profondément motivée par la protection des personnes et la préservation de l'intégrité des systèmes.
+* Mon intérêt : Je souhaite obtenir une position en cybersécurité qui me permettra d'utiliser ma soif de connaissances pour renforcer la posture de sécurité d'une organisation.
 
 ## 🎓 Formation
 * Cursus : École Marocaine des Sciences de l'Ingénieur (EMSI) — 4ème année.
 * Certifications : Google Cybersecurity Professional Certificate — En cours.
 
 ---
-*Note : Ce document est une ébauche que je révise et affine tout au long de mon programme pour qu'il soit prêt à être partagé avec des employeurs potentiels.*
+*Note : Cette déclaration est une ébauche que je réviserai et affinerai tout au long de mon programme pour qu'elle soit prête à être partagée avec des employeurs potentiels.*
