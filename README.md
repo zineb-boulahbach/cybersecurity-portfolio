@@ -1,7 +1,7 @@
 # 👋 Zineb — Portfolio Cybersécurité
 
 ## À propos
-Étudiante en 4ème année à l'EMSI, je suis passionnée par la technologie et l'analyse de systèmes complexes[cite: 20, 21, 23]. [cite_start]Mon parcours en ingénierie m'a permis de développer une solide base technique que je souhaite aujourd'hui mettre au service de la cybersécurité pour protéger les organisations et les personnes.
+Étudiante en 4ème année à l'EMSI, je suis passionnée par la technologie et l'analyse de systèmes complexes. Mon parcours en ingénierie m'a permis de développer une solide base technique que je souhaite aujourd'hui mettre au service de la cybersécurité pour protéger les organisations et les personnes.
 
 ## 📝 Déclaration professionnelle
 "Je m'appelle Zineb. Je suis une étudiante ingénieure en 4ème année, motivée et passionnée par la sécurisation des infrastructures numériques et la protection des données sensibles.J'aime travailler avec les technologies, analyser des architectures complexes et concevoir des solutions de sécurité robustes pour résoudre les défis actuels des organisations."
